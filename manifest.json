@@ -1,0 +1,16 @@
+{
+  "name": "노인 손떨림 체험 교육",
+  "short_name": "손떨림체험",
+  "description": "사회복무요원을 위한 노인 손떨림 공감 체험 교육",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#1a1a1a",
+  "orientation": "portrait",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
